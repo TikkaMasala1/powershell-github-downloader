@@ -1,4 +1,4 @@
-# Powershell Github Downloader
+# Various Github Downloader
 Some simple scripts I made to download all the necessary modules/files I need after flashing custom roms on my phone.
 
 Make sure to create a personal access token:
