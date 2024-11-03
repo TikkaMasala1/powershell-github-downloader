@@ -1,6 +1,11 @@
 # Powershell Github Downloader
 A simple Powershell script to download all the necessary modules/files when I flash my phone
 
+Make sure to create a personal access token:
+[GitHub Settings > Developer Settings > Personal Access Tokens.](https://github.com/settings/tokens/) 
+
+And replace `YOUR_PERSONAL_ACCESS_TOKEN` with your token
+
 ### Example repository list:
 ```
 # Format: "owner/repository"
