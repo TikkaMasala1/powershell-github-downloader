@@ -1,5 +1,5 @@
 # Powershell Github Downloader
-A simple Powershell script to download all the necessary modules/files when I flash my phone
+A simple Powershell script I made to download all the necessary modules/files I need after flashing custom roms on my phone.
 
 Make sure to create a personal access token:
 [GitHub Settings > Developer Settings > Personal Access Tokens.](https://github.com/settings/tokens/) 
